@@ -1,0 +1,2 @@
+rootProject.name = "coffee_v04"
+include ':app'
